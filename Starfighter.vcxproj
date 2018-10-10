@@ -214,6 +214,7 @@
   <ItemGroup>
     <Image Include="res\bitmap1.bmp" />
     <Image Include="res\Starfighter.ico" />
+    <Image Include="res\ThinkingSmall.png" />
     <Image Include="res\triangle.bmp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
